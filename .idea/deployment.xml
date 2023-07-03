@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="adena4.fun" confirmBeforeDeletion="false" autoUploadExternalChanges="true">
+    <option name="confirmBeforeDeletion" value="false" />
+    <serverData>
+      <paths name="adena4.fun">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="http://adena4.fun" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/bitrix" />
+            <excludedPath path="/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

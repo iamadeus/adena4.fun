@@ -1,0 +1,74 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.element/element/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.element/element/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.section/section/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.section/section/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/main.profile/personal/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/main.profile/personal/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket.line/small_basket/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket.line/small_basket/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/action-pool.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/action-pool.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/component.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/filter.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/filter.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/mustache.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/mustache.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/order_ajax.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/google_maps.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/google_maps.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/yandex_maps.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/yandex_maps.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.detail/.default/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.detail/.default/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.list/.default/script.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.list/.default/script.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/js/fancybox/jquery.fancybox.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/js/jquery-3.6.0.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/js/jquery-3.6.0.min.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/js/myscripts.min.js" />
+        <item url="file://$PROJECT_DIR$/local/templates/adena4/js/myscripts.min.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.element/element/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.element/element/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.section/section/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/catalog.section/section/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/main.profile/personal/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/main.profile/personal/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket.line/small_basket/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket.line/small_basket/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/action-pool.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/action-pool.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/component.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/filter.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/filter.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/mustache.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.basket.basket/cart/js/mustache.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/order_ajax.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/google_maps.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/google_maps.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/yandex_maps.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.order.ajax/order_new/scripts/yandex_maps.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.detail/.default/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.detail/.default/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.list/.default/script.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/components/bitrix/sale.personal.order.list/.default/script.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/js/fancybox/jquery.fancybox.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/js/jquery-3.6.0.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/js/jquery-3.6.0.min.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/js/myscripts.min.js" />
+      <root url="file://$PROJECT_DIR$/local/templates/adena4/js/myscripts.min.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
